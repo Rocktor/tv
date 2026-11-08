@@ -1,0 +1,29 @@
+Third-Party Notice
+==================
+
+This repository includes CleanYourTV as a git subtree under the `cleanyourtv/`
+directory for personal Sony TV customization.
+
+Upstream project
+----------------
+Name:    CleanYourTV
+URL:     https://github.com/Gathin23/cleanyourtv
+Website: https://cleanyour.tv
+Author:  Gathin (and contributors)
+License: MIT License — Copyright (c) 2026 Gathin
+         (full text: cleanyourtv/LICENSE)
+
+Font
+----
+The Outfit typeface shipped with the launcher is copyright The Outfit Project
+Authors and licensed under the SIL Open Font License 1.1
+(see cleanyourtv/launcher/FONT-LICENSE-OFL.txt).
+
+Import details
+--------------
+Method:  git subtree (prefix cleanyourtv/, --squash)
+Pinned:  d451b175ab3f869f9a5d66993fb2dd501c96920b (upstream main at import time)
+Date:    2026-11-08
+
+Rocktor/tv does not claim authorship of CleanYourTV. Modifications for Sony
+home use should preserve the upstream LICENSE and this NOTICE.
